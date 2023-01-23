@@ -1,5 +1,4 @@
-// const baseUrl = "https://temp-backend.onrender.com";
-const baseUrl = "http://localhost:2000";
+const baseUrl = "https://ecommerce-gyxw.onrender.com";
 
 export const api = `${baseUrl}/api`;
 export const generatePublicUrl = (fileName) => {
